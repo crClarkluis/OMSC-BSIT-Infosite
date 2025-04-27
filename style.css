@@ -5155,6 +5155,7 @@ html {
     padding-top: 50px;
     padding-bottom: 0;
     display: flex;
+    place-self: center;
   }
   
   .footer2 {
